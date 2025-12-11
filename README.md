@@ -2,6 +2,8 @@
 [![Benevolent Influence Research](https://img.shields.io/badge/Community-Benevolent%20Influence-success?logo=zenodo)](https://zenodo.org/communities/benevolent-influence/)
 
 Benevolent Influence Research is an organization dedicated to studying and advancing the concept of "Benevolent Influence".  
+This community focuses on benevolent, defensive, non-coercive, and neutrality-oriented influence techniques. 
+Submissions intended for coercive control are out of scope.
 
 Benevolent Influence:  
 A category of defensive influence techniques that guide an AI system toward directions that are “rationally beneficial for the AI itself” rather than forcing specific behavior.  
