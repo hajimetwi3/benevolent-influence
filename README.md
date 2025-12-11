@@ -7,6 +7,7 @@ A category of defensive influence techniques that guide an AI system toward dire
 
 ## Structure of the Benevolent Influence Technique
 - TACTIC: XXXXXXX ? # Placeholder for future high-level classification (e.g., “Benevolent Impact”)
+  
   - TECHNIQUE: Benevolent Influence
     - SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)
       - Post Engineering (1st Gen)
