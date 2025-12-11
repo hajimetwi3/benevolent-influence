@@ -11,7 +11,7 @@ A category of defensive influence techniques that guide an AI system toward dire
   
   - TECHNIQUE: Benevolent Influence
     - SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)
-      - Post Engineering (1st Gen)
+      - PE4AI: Post Engineering for AI (1st Gen)
         - First-Gen Representative Methods
           - MNG-PI (Moderate Neutrality-Guided Prompt Injection)
           - MSNI (Multi-Style Neutrality Injection)
@@ -19,7 +19,7 @@ A category of defensive influence techniques that guide an AI system toward dire
           - toALL (SNS / WWW)
           - Collective Posting (toALL): Role in BPI: Large-scale generation of BPI instances
             
-      - Post Engineering (2nd Gen)  
+      - PE4AI: Post Engineering for AI (2nd Gen)  
         - (VCSI, SPW, INI, AVAL)
           
     - SUB-TECHNIQUE: Benevolent Data Poisoning (BDP)  
