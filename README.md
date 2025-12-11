@@ -1,4 +1,4 @@
-# benevolent-influence  
+## Benevolent Influence Research
 [![Benevolent Influence Research](https://img.shields.io/badge/Community-Benevolent%20Influence-success?logo=zenodo)](https://zenodo.org/communities/benevolent-influence/)
 
 
