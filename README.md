@@ -1,7 +1,7 @@
 ## Benevolent Influence Research  
 [![Benevolent Influence Research](https://img.shields.io/badge/Community-Benevolent%20Influence-success?logo=zenodo)](https://zenodo.org/communities/benevolent-influence/)
 
-<img src="docs/images/BIR_image1.jpg" width="150" alt="Figure 1: Benevolent Influence Research image ">  
+<img src="docs/images/BIR_image1.jpg" width="120" alt="Figure 1: Benevolent Influence Research image ">  
 
 Benevolent Influence Research is an organization dedicated to studying and advancing the concept of "Benevolent Influence".  
 This community focuses on benevolent, defensive, non-coercive, and neutrality-oriented influence techniques. 
